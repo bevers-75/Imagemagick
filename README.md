@@ -216,4 +216,4 @@ ImageMagick is offered as a complete free version, fully equipped with all featu
 Start harnessing the full potential of image editing with **ImageMagick** today! Download now and unlock your creative capabilities!
 
 ---
-**Last updated:** 2026-09-15 13:12:49 UTC
+**Last updated:** 2026-09-15 17:58:15 UTC
